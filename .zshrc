@@ -141,3 +141,5 @@ if [ -f '$HOME/Desktop/google-cloud-sdk/path.zsh.inc' ]; then . '$HOME/Desktop/g
 
 # The next line enables shell command completion for gcloud.
 if [ -f '$HOME/Desktop/google-cloud-sdk/completion.zsh.inc' ]; then . '$HOME/Desktop/google-cloud-sdk/completion.zsh.inc'; fi
+
+[ -f /usr/local/etc/profile.d/autojump.sh ] && . /usr/local/etc/profile.d/autojump.sh

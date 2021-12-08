@@ -58,5 +58,6 @@
   "notebook.kernelProviderAssociations": [
   
   ],
-  "workbench.colorTheme": "Dark (Molokai)"
+  "workbench.colorTheme": "Dark (Molokai)",
+  "files.autoSave": "onFocusChange"
 }
